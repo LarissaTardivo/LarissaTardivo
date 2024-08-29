@@ -1,9 +1,3 @@
-### Olá, mundo! 
-
-- 🔭 Hoje trabalho com back-end e front-end
-- 🌱 Me aprofundando na área do front-end e estudando ReactJs
-- 💬 Entre em contato comigo no e-mail: larissatardivo81@gmail.com
-
 <div align="center">
   <a href="https://github.com/LarissaTardivo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissatardivo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
